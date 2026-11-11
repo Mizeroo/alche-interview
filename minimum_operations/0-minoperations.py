@@ -20,4 +20,3 @@ def minOperations(n):
             divisor += 1
 
     return operations
-
